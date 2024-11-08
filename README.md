@@ -1,1 +1,1 @@
-# invat-programare-cu-noi
+# Programare pentru copii
